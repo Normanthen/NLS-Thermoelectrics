@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="1.3000453"
-     inkscape:cx="721.89794"
-     inkscape:cy="410.37032"
+     inkscape:zoom="1.8385417"
+     inkscape:cx="327.70538"
+     inkscape:cy="235.24079"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -345,7 +345,7 @@
      fill-rule="nonzero"
      fill="#ffffff"
      fill-opacity="1"
-     d="M 87.314573,221.30364 H 273.61535 V 30.080988 H 87.314573 Z m 0,0"
+     d="M 89.622185,218.70758 H 275.92296 V 27.484924 H 89.622185 Z m 0,0"
      id="path47" />
   <path
      fill-rule="nonzero"
@@ -382,7 +382,8 @@
      stroke-opacity="1"
      stroke-miterlimit="10"
      d="m 217.72473,76.577085 c 0.79296,0 1.55859,-0.31641 2.12109,-0.87891 0.5625,-0.5625 0.87891,-1.32422 0.87891,-2.12109 0,-0.79688 -0.31641,-1.5586 -0.87891,-2.1211 -0.5625,-0.5625 -1.32813,-0.8789 -2.12109,-0.8789 -0.79688,0 -1.5586,0.3164 -2.1211,0.8789 -0.5625,0.5625 -0.8789,1.32422 -0.8789,2.1211 0,0.79687 0.3164,1.55859 0.8789,2.12109 0.5625,0.5625 1.32422,0.87891 2.1211,0.87891 z m 0,0"
-     id="path50" />
+     id="path50"
+     style="stroke:#010000;stroke-opacity:1;fill:#000000" />
   <path
      fill-rule="nonzero"
      fill="#000000"
@@ -981,7 +982,7 @@
      fill="#000000"
      fill-opacity="1"
      id="g107"
-     transform="translate(-2.529177,-1.9580752)">
+     transform="matrix(0.82747095,0,0,0.73059153,45.259697,17.143879)">
     <use
        xlink:href="#glyph-8-0"
        x="133.3123"
@@ -1050,13 +1051,13 @@
   </g>
   <path
      fill="none"
-     stroke-width="1"
+     stroke-width="0.461645"
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke="#000000"
      stroke-opacity="1"
      stroke-miterlimit="10"
-     d="M 236.28332,127.53411 C 224.31066,113.01848 212.57629,98.791925 201.08019,84.854425"
+     d="M 217.80316,103.42914 C 212.02409,97.020214 206.36005,90.738918 200.81101,84.585248"
      id="path107" />
   <path
      fill="none"
@@ -1072,7 +1073,7 @@
      fill="#000000"
      fill-opacity="1"
      id="g119"
-     transform="translate(-2.529177,-1.9580752)">
+     transform="matrix(0.77982543,0,0,0.70493359,29.182068,9.1728048)">
     <use
        xlink:href="#glyph-8-0"
        x="214.04286"
@@ -1158,7 +1159,7 @@
      fill="#000000"
      fill-opacity="1"
      id="g131"
-     transform="translate(-2.529177,-1.9580752)">
+     transform="matrix(0.77755559,0,0,0.73059153,37.563606,16.800359)">
     <use
        xlink:href="#glyph-8-0"
        x="232.67299"
@@ -1244,7 +1245,7 @@
      fill="#000000"
      fill-opacity="1"
      id="g146"
-     transform="translate(-2.529177,-1.9580752)">
+     transform="matrix(0.73914048,0,0,0.73055174,53.666167,42.019782)">
     <use
        xlink:href="#glyph-8-0"
        x="170.57256"
@@ -1345,7 +1346,7 @@
      fill="#000000"
      fill-opacity="1"
      id="g161"
-     transform="translate(-2.529177,-1.9580752)">
+     transform="matrix(0.73914048,0,0,0.73055174,53.171013,43.995266)">
     <use
        xlink:href="#glyph-8-0"
        x="170.57256"
@@ -1424,13 +1425,13 @@
   </g>
   <path
      fill="none"
-     stroke-width="1"
+     stroke-width="1.33742"
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke="#000000"
      stroke-opacity="1"
      stroke-miterlimit="10"
-     d="m 164.06066,165.5263 c -2.15234,-0.27344 -3.93359,-0.50391 -5.34765,-0.6836"
+     d="m 177.77013,165.35759 c -7.60227,-0.13848 -13.89382,-0.25518 -18.88841,-0.34618"
      id="path161" />
   <path
      fill="none"
@@ -1446,7 +1447,7 @@
      fill="#000000"
      fill-opacity="1"
      id="g176"
-     transform="translate(-2.529177,-1.9580752)">
+     transform="matrix(0.73914048,0,0,0.73055174,53.521202,38.305451)">
     <use
        xlink:href="#glyph-8-0"
        x="170.57256"
