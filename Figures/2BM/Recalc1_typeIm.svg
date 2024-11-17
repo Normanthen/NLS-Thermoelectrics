@@ -24,8 +24,8 @@
      inkscape:document-units="pt"
      showguides="false"
      inkscape:zoom="0.91927083"
-     inkscape:cx="547.71671"
-     inkscape:cy="350.82153"
+     inkscape:cx="547.71672"
+     inkscape:cy="349.73371"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
@@ -3654,4 +3654,70 @@
        y="565.0907">m  = 0.05m<tspan
    style="font-size:13.0563px;baseline-shift:sub;stroke-width:1.45628"
    id="tspan314">0</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end;opacity:0.98;fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:round;paint-order:stroke fill markers"
+     x="20.910156"
+     y="14.357422"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       style="stroke-width:1"
+       x="20.910156"
+       y="14.357422">(a)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end;opacity:0.98;fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:round;paint-order:stroke fill markers"
+     x="308.83789"
+     y="14.357422"
+     id="text1-6"><tspan
+       sodipodi:role="line"
+       id="tspan1-9"
+       style="stroke-width:1"
+       x="308.83789"
+       y="14.357422">(b)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end;opacity:0.98;fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:round;paint-order:stroke fill markers"
+     x="591.83789"
+     y="14.357422"
+     id="text1-6-3"><tspan
+       sodipodi:role="line"
+       id="tspan1-9-4"
+       style="stroke-width:1"
+       x="591.83789"
+       y="14.357422">(c)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end;opacity:0.98;fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:round;paint-order:stroke fill markers"
+     x="21.837891"
+     y="290.4476"
+     id="text2"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       style="stroke-width:1"
+       x="21.837891"
+       y="290.4476">(d)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end;opacity:0.98;fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:round;paint-order:stroke fill markers"
+     x="311.28125"
+     y="290.44742"
+     id="text2-0"><tspan
+       sodipodi:role="line"
+       id="tspan2-4"
+       style="stroke-width:1"
+       x="311.28125"
+       y="290.44742">(e)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-anchor:end;opacity:0.98;fill:#000000;stroke:#000000;stroke-width:0.999997;stroke-linejoin:round;paint-order:stroke fill markers"
+     x="575.35913"
+     y="290.44742"
+     id="text2-0-2"><tspan
+       sodipodi:role="line"
+       id="tspan2-4-7"
+       style="stroke-width:1"
+       x="575.35913"
+       y="290.44742">(f)</tspan></text>
 </svg>
