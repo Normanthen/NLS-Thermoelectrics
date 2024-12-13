@@ -1,4 +1,4 @@
-#NLS-Thermoelectrics
+# NLS-Thermoelectrics
 
 Source files for our paper: "Thermoelectric properties of Type-I and Type-II nodal line semimetals: a comparative study",
 written by Mohammad Norman Gaza Laksono, Muhammad Aziz Majidi and Ahmad R. T. Nugraha, published in <a
